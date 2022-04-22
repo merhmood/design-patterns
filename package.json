@@ -1,0 +1,14 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "main": "node server",
+  "scripts": {
+    "start": "nodemon PaymentSystem.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "nodemon": "^2.0.12",
+    "ts-node": "^10.6.0"
+  }
+}
