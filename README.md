@@ -1,6 +1,6 @@
-# STRATERGY PATTERN USING TYPESCRIPT
+# DESIGN PATTERN USING TYPESCRIPT
 
-** this project uses typescript to demonstrate the duck example of ** `Head first design pattern book`
+** this project uses typescript to demonstrate software design pattern
 
 ### npm install
 
